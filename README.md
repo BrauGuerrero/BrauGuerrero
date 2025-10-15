@@ -1,4 +1,4 @@
-👋 ¡Hola, soy Braulio Guerrero!
+  👋 ¡Hola, soy Braulio Guerrero!
 
 🎯 Ingeniero en Diseño Mecánico Aeronáutico y Analista de Datos en formación.
 Me apasiona combinar mi experiencia en ingeniería con el análisis de datos para entender procesos, optimizar decisiones y proponer mejoras basadas en evidencia.
@@ -23,8 +23,8 @@ Me apasiona combinar mi experiencia en ingeniería con el análisis de datos par
 📊 Proyectos destacados
 
 - Análisis de embudo y Test A/A/B: Evaluación del impacto de un rediseño en las ventas de una app.
-- Análisis de éxito de videojuego: Identificación de factores que influyen en el rendimiento de un juego.
-- Modelos de estimación en Excel: Predicción de tiempos de proceso para mejorar la precisión de cotizaciones industriales.
+- Telecom Data Analysis — Identificación de Operadores Ineficaces.
+- Análisis de Marketing y LTV — Showz (Estudio de Caso).
 
 🔗 Mira más proyectos en mi perfil
 
